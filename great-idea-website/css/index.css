@@ -137,5 +137,37 @@ header .logo {
 	display: inline-block;
 }
 
+.middle-content-bottom {
+	border-top: 1px solid grey;
+	border-bottom: 1px solid grey;
+	margin: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.services {
+	width: 250px;
+	display: inline-block;
+}
+
+.product {
+	width: 250px;
+	display: inline-block;
+}
+
+.vision {
+	width: 250px;
+	display: inline-block;
+}
+
+.contact {
+	margin: 30px;
+}
+
+footer {
+	text-align: center;
+}
+
+
 
 
